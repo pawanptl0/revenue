@@ -1,0 +1,6 @@
+{
+    "products":[ {"id": 1, "name":"tata x3", "revenue":1000 },
+    {"id": 2, "name":"mahindra x3", "revenue":2000 },
+    {"id": 3, "name":"audi x3", "revenue":1040 },
+    {"id": 4, "name":"maruti x3", "revenue":4000 }]
+}
